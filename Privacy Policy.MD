@@ -1,11 +1,11 @@
 # PRIVACY POLICY
-This privacy policy governs our use of the software application mainly on Android Applications which created by Abhijit Sarkar. The Applications are social and educational theme based. We are maintaining following all policies to keep our product safe. 
+#This privacy policy governs our use of the software application mainly on Android Applications which created by Abhijit Sarkar. The Applications are social and educational theme based. We are maintaining following all policies to keep our product safe. 
  
-What information does the Application obtain and how is it used?
+#What information does the Application obtain and how is it used?
 User Provided Information 
 The Application obtains the information you provide when you download and register the Application. Registration with us is optional. However, please keep in mind that you may not be able to use some of the features offered by the Application unless you register with us.
  
-When you register with us and use the Application, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.
+#When you register with us and use the Application, you generally provide (a) your name, email address, age, user name, password and other registration information; (b) transaction-related information, such as when you make purchases, respond to any offers, or download or use applications from us; (c) information you provide us when you contact us for help; (d) credit card information for purchase and use of the Application, and; (e) information you enter into our system when using the Application, such as contact information and project management information.
 We may also use the information you provided us to contact your from time to time to provide you with important information, required notices and marketing promotions.
 Automatically Collected Information 
  
